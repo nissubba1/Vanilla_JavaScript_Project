@@ -1,0 +1,1062 @@
+{
+    "0": {
+        "color_name": "Absolute Zero",
+        "hex_value": "#0048BA"
+    },
+    "1": {
+        "color_name": "Acid green",
+        "hex_value": "#B0BF1A"
+    },
+    "2": {
+        "color_name": "Aero",
+        "hex_value": "#7CB9E8"
+    },
+    "3": {
+        "color_name": "African violet",
+        "hex_value": "#B284BE"
+    },
+    "4": {
+        "color_name": "Air superiority blue",
+        "hex_value": "#72A0C1"
+    },
+    "5": {
+        "color_name": "Alice blue",
+        "hex_value": "#F0F8FF"
+    },
+    "6": {
+        "color_name": "Alizarin",
+        "hex_value": "#DB2D43"
+    },
+    "7": {
+        "color_name": "Alloy orange",
+        "hex_value": "#C46210"
+    },
+    "8": {
+        "color_name": "Almond",
+        "hex_value": "#EED9C4"
+    },
+    "9": {
+        "color_name": "Amaranth deep purple",
+        "hex_value": "#9F2B68"
+    },
+    "10": {
+        "color_name": "Amaranth pink",
+        "hex_value": "#F19CBB"
+    },
+    "11": {
+        "color_name": "Amaranth purple",
+        "hex_value": "#AB274F"
+    },
+    "12": {
+        "color_name": "Amazon",
+        "hex_value": "#3B7A57"
+    },
+    "13": {
+        "color_name": "Amber",
+        "hex_value": "#FFBF00"
+    },
+    "14": {
+        "color_name": "Amethyst",
+        "hex_value": "#9966CC"
+    },
+    "15": {
+        "color_name": "Android green",
+        "hex_value": "#3DDC84"
+    },
+    "16": {
+        "color_name": "Antique brass",
+        "hex_value": "#C88A65"
+    },
+    "17": {
+        "color_name": "Antique bronze",
+        "hex_value": "#665D1E"
+    },
+    "18": {
+        "color_name": "Antique fuchsia",
+        "hex_value": "#915C83"
+    },
+    "19": {
+        "color_name": "Antique ruby",
+        "hex_value": "#841B2D"
+    },
+    "20": {
+        "color_name": "Antique white",
+        "hex_value": "#FAEBD7"
+    },
+    "21": {
+        "color_name": "Apricot",
+        "hex_value": "#FBCEB1"
+    },
+    "22": {
+        "color_name": "Aqua",
+        "hex_value": "#00FFFF"
+    },
+    "23": {
+        "color_name": "Aquamarine",
+        "hex_value": "#7FFFD4"
+    },
+    "24": {
+        "color_name": "Arctic lime",
+        "hex_value": "#D0FF14"
+    },
+    "25": {
+        "color_name": "Artichoke green",
+        "hex_value": "#4B6F44"
+    },
+    "26": {
+        "color_name": "Arylide yellow",
+        "hex_value": "#E9D66B"
+    },
+    "27": {
+        "color_name": "Ash gray",
+        "hex_value": "#B2BEB5"
+    },
+    "28": {
+        "color_name": "Atomic tangerine",
+        "hex_value": "#FF9966"
+    },
+    "29": {
+        "color_name": "Aureolin",
+        "hex_value": "#FDEE00"
+    },
+    "30": {
+        "color_name": "Azure",
+        "hex_value": "#007FFF"
+    },
+    "31": {
+        "color_name": "Azure (X11/web color)",
+        "hex_value": "#F0FFFF"
+    },
+    "32": {
+        "color_name": "Baby blue",
+        "hex_value": "#89CFF0"
+    },
+    "33": {
+        "color_name": "Baby blue eyes",
+        "hex_value": "#A1CAF1"
+    },
+    "34": {
+        "color_name": "Baby pink",
+        "hex_value": "#F4C2C2"
+    },
+    "35": {
+        "color_name": "Baby powder",
+        "hex_value": "#FEFEFA"
+    },
+    "36": {
+        "color_name": "Baker-Miller pink",
+        "hex_value": "#FF91AF"
+    },
+    "37": {
+        "color_name": "Banana Mania",
+        "hex_value": "#FAE7B5"
+    },
+    "38": {
+        "color_name": "Barbie Pink",
+        "hex_value": "#DA1884"
+    },
+    "39": {
+        "color_name": "Barn red",
+        "hex_value": "#7C0A02"
+    },
+    "40": {
+        "color_name": "Battleship grey",
+        "hex_value": "#848482"
+    },
+    "41": {
+        "color_name": "Beau blue",
+        "hex_value": "#BCD4E6"
+    },
+    "42": {
+        "color_name": "Beaver",
+        "hex_value": "#9F8170"
+    },
+    "43": {
+        "color_name": "Beige",
+        "hex_value": "#F5F5DC"
+    },
+    "44": {
+        "color_name": "B'dazzled blue",
+        "hex_value": "#2E5894"
+    },
+    "45": {
+        "color_name": "Big dip o\u2019ruby",
+        "hex_value": "#9C2542"
+    },
+    "46": {
+        "color_name": "Bisque",
+        "hex_value": "#FFE4C4"
+    },
+    "47": {
+        "color_name": "Bistre",
+        "hex_value": "#3D2B1F"
+    },
+    "48": {
+        "color_name": "Bistre brown",
+        "hex_value": "#967117"
+    },
+    "49": {
+        "color_name": "Bitter lemon",
+        "hex_value": "#CAE00D"
+    },
+    "50": {
+        "color_name": "Black",
+        "hex_value": "#000000"
+    },
+    "51": {
+        "color_name": "Black bean",
+        "hex_value": "#3D0C02"
+    },
+    "52": {
+        "color_name": "Black coral",
+        "hex_value": "#54626F"
+    },
+    "53": {
+        "color_name": "Black olive",
+        "hex_value": "#3B3C36"
+    },
+    "54": {
+        "color_name": "Black Shadows",
+        "hex_value": "#BFAFB2"
+    },
+    "55": {
+        "color_name": "Blanched almond",
+        "hex_value": "#FFEBCD"
+    },
+    "56": {
+        "color_name": "Blast-off bronze",
+        "hex_value": "#A57164"
+    },
+    "57": {
+        "color_name": "Bleu de France",
+        "hex_value": "#318CE7"
+    },
+    "58": {
+        "color_name": "Blizzard blue",
+        "hex_value": "#ACE5EE"
+    },
+    "59": {
+        "color_name": "Blood red",
+        "hex_value": "#660000"
+    },
+    "60": {
+        "color_name": "Blue",
+        "hex_value": "#0000FF"
+    },
+    "61": {
+        "color_name": "Blue (Crayola)",
+        "hex_value": "#1F75FE"
+    },
+    "62": {
+        "color_name": "Blue (Munsell)",
+        "hex_value": "#0093AF"
+    },
+    "63": {
+        "color_name": "Blue (NCS)",
+        "hex_value": "#0087BD"
+    },
+    "64": {
+        "color_name": "Blue (Pantone)",
+        "hex_value": "#0018A8"
+    },
+    "65": {
+        "color_name": "Blue (pigment)",
+        "hex_value": "#333399"
+    },
+    "66": {
+        "color_name": "Blue bell",
+        "hex_value": "#A2A2D0"
+    },
+    "67": {
+        "color_name": "Blue-gray (Crayola)",
+        "hex_value": "#6699CC"
+    },
+    "68": {
+        "color_name": "Blue jeans",
+        "hex_value": "#5DADEC"
+    },
+    "69": {
+        "color_name": "Blue sapphire",
+        "hex_value": "#126180"
+    },
+    "70": {
+        "color_name": "Blue-violet",
+        "hex_value": "#8A2BE2"
+    },
+    "71": {
+        "color_name": "Blue yonder",
+        "hex_value": "#5072A7"
+    },
+    "72": {
+        "color_name": "Bluetiful",
+        "hex_value": "#3C69E7"
+    },
+    "73": {
+        "color_name": "Blush",
+        "hex_value": "#DE5D83"
+    },
+    "74": {
+        "color_name": "Bole",
+        "hex_value": "#79443B"
+    },
+    "75": {
+        "color_name": "Bone",
+        "hex_value": "#E3DAC9"
+    },
+    "76": {
+        "color_name": "Brick red",
+        "hex_value": "#CB4154"
+    },
+    "77": {
+        "color_name": "Bright lilac",
+        "hex_value": "#D891EF"
+    },
+    "78": {
+        "color_name": "Bright yellow (Crayola)",
+        "hex_value": "#FFAA1D"
+    },
+    "79": {
+        "color_name": "British racing green",
+        "hex_value": "#004225"
+    },
+    "80": {
+        "color_name": "Bronze",
+        "hex_value": "#CD7F32"
+    },
+    "81": {
+        "color_name": "Brown",
+        "hex_value": "#964B00"
+    },
+    "82": {
+        "color_name": "Brown sugar",
+        "hex_value": "#AF6E4D"
+    },
+    "83": {
+        "color_name": "Bud green",
+        "hex_value": "#7BB661"
+    },
+    "84": {
+        "color_name": "Buff",
+        "hex_value": "#FFC680"
+    },
+    "85": {
+        "color_name": "Burgundy",
+        "hex_value": "#800020"
+    },
+    "86": {
+        "color_name": "Burlywood",
+        "hex_value": "#DEB887"
+    },
+    "87": {
+        "color_name": "Burnished brown",
+        "hex_value": "#A17A74"
+    },
+    "88": {
+        "color_name": "Burnt orange",
+        "hex_value": "#CC5500"
+    },
+    "89": {
+        "color_name": "Burnt sienna",
+        "hex_value": "#E97451"
+    },
+    "90": {
+        "color_name": "Burnt umber",
+        "hex_value": "#8A3324"
+    },
+    "91": {
+        "color_name": "Byzantine",
+        "hex_value": "#BD33A4"
+    },
+    "92": {
+        "color_name": "Byzantium",
+        "hex_value": "#702963"
+    },
+    "93": {
+        "color_name": "Cadet blue",
+        "hex_value": "#5F9EA0"
+    },
+    "94": {
+        "color_name": "Cadet grey",
+        "hex_value": "#91A3B0"
+    },
+    "95": {
+        "color_name": "Cadmium green",
+        "hex_value": "#006B3C"
+    },
+    "96": {
+        "color_name": "Cadmium orange",
+        "hex_value": "#ED872D"
+    },
+    "97": {
+        "color_name": "Caf\u00e9 au lait",
+        "hex_value": "#A67B5B"
+    },
+    "98": {
+        "color_name": "Caf\u00e9 noir",
+        "hex_value": "#4B3621"
+    },
+    "99": {
+        "color_name": "Cambridge blue",
+        "hex_value": "#A3C1AD"
+    },
+    "100": {
+        "color_name": "Camel",
+        "hex_value": "#C19A6B"
+    },
+    "101": {
+        "color_name": "Cameo pink",
+        "hex_value": "#EFBBCC"
+    },
+    "102": {
+        "color_name": "Canary",
+        "hex_value": "#FFFF99"
+    },
+    "103": {
+        "color_name": "Canary yellow",
+        "hex_value": "#FFEF00"
+    },
+    "104": {
+        "color_name": "Candy pink",
+        "hex_value": "#E4717A"
+    },
+    "105": {
+        "color_name": "Cardinal",
+        "hex_value": "#C41E3A"
+    },
+    "106": {
+        "color_name": "Caribbean green",
+        "hex_value": "#00CC99"
+    },
+    "107": {
+        "color_name": "Carmine",
+        "hex_value": "#960018"
+    },
+    "108": {
+        "color_name": "Carmine (M&P)",
+        "hex_value": "#D70040"
+    },
+    "109": {
+        "color_name": "Carnation pink",
+        "hex_value": "#FFA6C9"
+    },
+    "110": {
+        "color_name": "Carnelian",
+        "hex_value": "#B31B1B"
+    },
+    "111": {
+        "color_name": "Carolina blue",
+        "hex_value": "#56A0D3"
+    },
+    "112": {
+        "color_name": "Carrot orange",
+        "hex_value": "#ED9121"
+    },
+    "113": {
+        "color_name": "Catawba",
+        "hex_value": "#703642"
+    },
+    "114": {
+        "color_name": "Cedar Chest",
+        "hex_value": "#C95A49"
+    },
+    "115": {
+        "color_name": "Celadon",
+        "hex_value": "#ACE1AF"
+    },
+    "116": {
+        "color_name": "Celeste",
+        "hex_value": "#B2FFFF"
+    },
+    "117": {
+        "color_name": "Cerise",
+        "hex_value": "#DE3163"
+    },
+    "118": {
+        "color_name": "Cerulean",
+        "hex_value": "#007BA7"
+    },
+    "119": {
+        "color_name": "Cerulean blue",
+        "hex_value": "#2A52BE"
+    },
+    "120": {
+        "color_name": "Cerulean frost",
+        "hex_value": "#6D9BC3"
+    },
+    "121": {
+        "color_name": "Cerulean (Crayola)",
+        "hex_value": "#1DACD6"
+    },
+    "122": {
+        "color_name": "Cerulean (RGB)",
+        "hex_value": "#0040FF"
+    },
+    "123": {
+        "color_name": "Champagne",
+        "hex_value": "#F7E7CE"
+    },
+    "124": {
+        "color_name": "Champagne pink",
+        "hex_value": "#F1DDCF"
+    },
+    "125": {
+        "color_name": "Charcoal",
+        "hex_value": "#36454F"
+    },
+    "126": {
+        "color_name": "Charm pink",
+        "hex_value": "#E68FAC"
+    },
+    "127": {
+        "color_name": "Chartreuse (web)",
+        "hex_value": "#80FF00"
+    },
+    "128": {
+        "color_name": "Cherry blossom pink",
+        "hex_value": "#FFB7C5"
+    },
+    "129": {
+        "color_name": "Chestnut",
+        "hex_value": "#954535"
+    },
+    "130": {
+        "color_name": "Chili red",
+        "hex_value": "#E23D28"
+    },
+    "131": {
+        "color_name": "China pink",
+        "hex_value": "#DE6FA1"
+    },
+    "132": {
+        "color_name": "Chinese red",
+        "hex_value": "#AA381E"
+    },
+    "133": {
+        "color_name": "Chinese violet",
+        "hex_value": "#856088"
+    },
+    "134": {
+        "color_name": "Chinese yellow",
+        "hex_value": "#FFB200"
+    },
+    "135": {
+        "color_name": "Chocolate (traditional)",
+        "hex_value": "#7B3F00"
+    },
+    "136": {
+        "color_name": "Chocolate (web)",
+        "hex_value": "#D2691E"
+    },
+    "137": {
+        "color_name": "Cinereous",
+        "hex_value": "#98817B"
+    },
+    "138": {
+        "color_name": "Cinnabar",
+        "hex_value": "#E34234"
+    },
+    "139": {
+        "color_name": "Cinnamon Satin",
+        "hex_value": "#CD607E"
+    },
+    "140": {
+        "color_name": "Citrine",
+        "hex_value": "#E4D00A"
+    },
+    "141": {
+        "color_name": "Citron",
+        "hex_value": "#9FA91F"
+    },
+    "142": {
+        "color_name": "Claret",
+        "hex_value": "#7F1734"
+    },
+    "143": {
+        "color_name": "Coffee",
+        "hex_value": "#6F4E37"
+    },
+    "144": {
+        "color_name": "Columbia Blue",
+        "hex_value": "#B9D9EB"
+    },
+    "145": {
+        "color_name": "Congo pink",
+        "hex_value": "#F88379"
+    },
+    "146": {
+        "color_name": "Cool grey",
+        "hex_value": "#8C92AC"
+    },
+    "147": {
+        "color_name": "Copper",
+        "hex_value": "#B87333"
+    },
+    "148": {
+        "color_name": "Copper (Crayola)",
+        "hex_value": "#DA8A67"
+    },
+    "149": {
+        "color_name": "Copper penny",
+        "hex_value": "#AD6F69"
+    },
+    "150": {
+        "color_name": "Copper red",
+        "hex_value": "#CB6D51"
+    },
+    "151": {
+        "color_name": "Copper rose",
+        "hex_value": "#996666"
+    },
+    "152": {
+        "color_name": "Coquelicot",
+        "hex_value": "#FF3800"
+    },
+    "153": {
+        "color_name": "Coral",
+        "hex_value": "#FF7F50"
+    },
+    "154": {
+        "color_name": "Coral pink",
+        "hex_value": "#F88379"
+    },
+    "155": {
+        "color_name": "Cordovan",
+        "hex_value": "#893F45"
+    },
+    "156": {
+        "color_name": "Corn",
+        "hex_value": "#FBEC5D"
+    },
+    "157": {
+        "color_name": "Cornflower blue",
+        "hex_value": "#6495ED"
+    },
+    "158": {
+        "color_name": "Cornsilk",
+        "hex_value": "#FFF8DC"
+    },
+    "159": {
+        "color_name": "Cosmic cobalt",
+        "hex_value": "#2E2D88"
+    },
+    "160": {
+        "color_name": "Cosmic latte",
+        "hex_value": "#FFF8E7"
+    },
+    "161": {
+        "color_name": "Coyote brown",
+        "hex_value": "#81613C"
+    },
+    "162": {
+        "color_name": "Cotton candy",
+        "hex_value": "#FFBCD9"
+    },
+    "163": {
+        "color_name": "Cream",
+        "hex_value": "#FFFDD0"
+    },
+    "164": {
+        "color_name": "Crimson",
+        "hex_value": "#DC143C"
+    },
+    "165": {
+        "color_name": "Crimson (UA)",
+        "hex_value": "#9E1B32"
+    },
+    "166": {
+        "color_name": "Cultured Pearl",
+        "hex_value": "#F5F5F5"
+    },
+    "167": {
+        "color_name": "Cyan",
+        "hex_value": "#00FFFF"
+    },
+    "168": {
+        "color_name": "Cyan (process)",
+        "hex_value": "#00B7EB"
+    },
+    "169": {
+        "color_name": "Cyber grape",
+        "hex_value": "#58427C"
+    },
+    "170": {
+        "color_name": "Cyber yellow",
+        "hex_value": "#FFD300"
+    },
+    "171": {
+        "color_name": "Cyclamen",
+        "hex_value": "#F56FA1"
+    },
+    "172": {
+        "color_name": "Dandelion",
+        "hex_value": "#FED85D"
+    },
+    "173": {
+        "color_name": "Dark brown",
+        "hex_value": "#654321"
+    },
+    "174": {
+        "color_name": "Dark byzantium",
+        "hex_value": "#5D3954"
+    },
+    "175": {
+        "color_name": "Dark cyan",
+        "hex_value": "#008B8B"
+    },
+    "176": {
+        "color_name": "Dark electric blue",
+        "hex_value": "#536878"
+    },
+    "177": {
+        "color_name": "Dark goldenrod",
+        "hex_value": "#B8860B"
+    },
+    "178": {
+        "color_name": "Dark green (X11)",
+        "hex_value": "#006400"
+    },
+    "179": {
+        "color_name": "Dark jungle green",
+        "hex_value": "#1A2421"
+    },
+    "180": {
+        "color_name": "Dark khaki",
+        "hex_value": "#BDB76B"
+    },
+    "181": {
+        "color_name": "Dark lava",
+        "hex_value": "#483C32"
+    },
+    "182": {
+        "color_name": "Dark liver (horses)",
+        "hex_value": "#543D37"
+    },
+    "183": {
+        "color_name": "Dark magenta",
+        "hex_value": "#8B008B"
+    },
+    "184": {
+        "color_name": "Dark olive green",
+        "hex_value": "#556B2F"
+    },
+    "185": {
+        "color_name": "Dark orange",
+        "hex_value": "#FF8C00"
+    },
+    "186": {
+        "color_name": "Dark orchid",
+        "hex_value": "#9932CC"
+    },
+    "187": {
+        "color_name": "Dark purple",
+        "hex_value": "#301934"
+    },
+    "188": {
+        "color_name": "Dark red",
+        "hex_value": "#8B0000"
+    },
+    "189": {
+        "color_name": "Dark salmon",
+        "hex_value": "#E9967A"
+    },
+    "190": {
+        "color_name": "Dark sea green",
+        "hex_value": "#8FBC8F"
+    },
+    "191": {
+        "color_name": "Dark sienna",
+        "hex_value": "#3C1414"
+    },
+    "192": {
+        "color_name": "Dark sky blue",
+        "hex_value": "#8CBED6"
+    },
+    "193": {
+        "color_name": "Dark slate blue",
+        "hex_value": "#483D8B"
+    },
+    "194": {
+        "color_name": "Dark slate gray",
+        "hex_value": "#2F4F4F"
+    },
+    "195": {
+        "color_name": "Dark spring green",
+        "hex_value": "#177245"
+    },
+    "196": {
+        "color_name": "Dark turquoise",
+        "hex_value": "#00CED1"
+    },
+    "197": {
+        "color_name": "Dark violet",
+        "hex_value": "#9400D3"
+    },
+    "198": {
+        "color_name": "Davy's grey",
+        "hex_value": "#555555"
+    },
+    "199": {
+        "color_name": "Deep cerise",
+        "hex_value": "#DA3287"
+    },
+    "200": {
+        "color_name": "Deep champagne",
+        "hex_value": "#FAD6A5"
+    },
+    "201": {
+        "color_name": "Deep chestnut",
+        "hex_value": "#B94E48"
+    },
+    "202": {
+        "color_name": "Deep jungle green",
+        "hex_value": "#004B49"
+    },
+    "203": {
+        "color_name": "Deep pink",
+        "hex_value": "#FF1493"
+    },
+    "204": {
+        "color_name": "Deep saffron",
+        "hex_value": "#FF9933"
+    },
+    "205": {
+        "color_name": "Deep sky blue",
+        "hex_value": "#00BFFF"
+    },
+    "206": {
+        "color_name": "Deep Space Sparkle",
+        "hex_value": "#4A646C"
+    },
+    "207": {
+        "color_name": "Deep taupe",
+        "hex_value": "#7E5E60"
+    },
+    "208": {
+        "color_name": "Denim",
+        "hex_value": "#1560BD"
+    },
+    "209": {
+        "color_name": "Denim blue",
+        "hex_value": "#2243B6"
+    },
+    "210": {
+        "color_name": "Desert",
+        "hex_value": "#C19A6B"
+    },
+    "211": {
+        "color_name": "Desert sand",
+        "hex_value": "#EDC9AF"
+    },
+    "212": {
+        "color_name": "Dim gray",
+        "hex_value": "#696969"
+    },
+    "213": {
+        "color_name": "Dodger blue",
+        "hex_value": "#1E90FF"
+    },
+    "214": {
+        "color_name": "Drab dark brown",
+        "hex_value": "#4A412A"
+    },
+    "215": {
+        "color_name": "Duke blue",
+        "hex_value": "#00009C"
+    },
+    "216": {
+        "color_name": "Dutch white",
+        "hex_value": "#EFDFBB"
+    },
+    "217": {
+        "color_name": "Ebony",
+        "hex_value": "#555D50"
+    },
+    "218": {
+        "color_name": "Ecru",
+        "hex_value": "#C2B280"
+    },
+    "219": {
+        "color_name": "Eerie black",
+        "hex_value": "#1B1B1B"
+    },
+    "220": {
+        "color_name": "Eggplant",
+        "hex_value": "#614051"
+    },
+    "221": {
+        "color_name": "Eggshell",
+        "hex_value": "#F0EAD6"
+    },
+    "222": {
+        "color_name": "Electric lime",
+        "hex_value": "#CCFF00"
+    },
+    "223": {
+        "color_name": "Electric purple",
+        "hex_value": "#BF00FF"
+    },
+    "224": {
+        "color_name": "Electric violet",
+        "hex_value": "#8F00FF"
+    },
+    "225": {
+        "color_name": "Emerald",
+        "hex_value": "#50C878"
+    },
+    "226": {
+        "color_name": "Eminence",
+        "hex_value": "#6C3082"
+    },
+    "227": {
+        "color_name": "English lavender",
+        "hex_value": "#B48395"
+    },
+    "228": {
+        "color_name": "English red",
+        "hex_value": "#AB4B52"
+    },
+    "229": {
+        "color_name": "English vermillion",
+        "hex_value": "#CC474B"
+    },
+    "230": {
+        "color_name": "English violet",
+        "hex_value": "#563C5C"
+    },
+    "231": {
+        "color_name": "Erin",
+        "hex_value": "#00FF40"
+    },
+    "232": {
+        "color_name": "Eton blue",
+        "hex_value": "#96C8A2"
+    },
+    "233": {
+        "color_name": "Fallow",
+        "hex_value": "#C19A6B"
+    },
+    "234": {
+        "color_name": "Falu red",
+        "hex_value": "#801818"
+    },
+    "235": {
+        "color_name": "Fandango",
+        "hex_value": "#B53389"
+    },
+    "236": {
+        "color_name": "Fandango pink",
+        "hex_value": "#DE5285"
+    },
+    "237": {
+        "color_name": "Fawn",
+        "hex_value": "#E5AA70"
+    },
+    "238": {
+        "color_name": "Fern green",
+        "hex_value": "#4F7942"
+    },
+    "239": {
+        "color_name": "Field drab",
+        "hex_value": "#6C541E"
+    },
+    "240": {
+        "color_name": "Fiery rose",
+        "hex_value": "#FF5470"
+    },
+    "241": {
+        "color_name": "Finn",
+        "hex_value": "#683068"
+    },
+    "242": {
+        "color_name": "Firebrick",
+        "hex_value": "#B22222"
+    },
+    "243": {
+        "color_name": "Fire engine red",
+        "hex_value": "#CE2029"
+    },
+    "244": {
+        "color_name": "Flame",
+        "hex_value": "#E25822"
+    },
+    "245": {
+        "color_name": "Flax",
+        "hex_value": "#EEDC82"
+    },
+    "246": {
+        "color_name": "Flirt",
+        "hex_value": "#A2006D"
+    },
+    "247": {
+        "color_name": "Floral white",
+        "hex_value": "#FFFAF0"
+    },
+    "248": {
+        "color_name": "Forest green (web)",
+        "hex_value": "#228B22"
+    },
+    "249": {
+        "color_name": "French beige",
+        "hex_value": "#A67B5B"
+    },
+    "250": {
+        "color_name": "French bistre",
+        "hex_value": "#856D4D"
+    },
+    "251": {
+        "color_name": "French blue",
+        "hex_value": "#0072BB"
+    },
+    "252": {
+        "color_name": "French fuchsia",
+        "hex_value": "#FD3F92"
+    },
+    "253": {
+        "color_name": "French lilac",
+        "hex_value": "#86608E"
+    },
+    "254": {
+        "color_name": "French lime",
+        "hex_value": "#9EFD38"
+    },
+    "255": {
+        "color_name": "French mauve",
+        "hex_value": "#D473D4"
+    },
+    "256": {
+        "color_name": "French pink",
+        "hex_value": "#FD6C9E"
+    },
+    "257": {
+        "color_name": "French raspberry",
+        "hex_value": "#C72C48"
+    },
+    "258": {
+        "color_name": "French sky blue",
+        "hex_value": "#77B5FE"
+    },
+    "259": {
+        "color_name": "French violet",
+        "hex_value": "#8806CE"
+    },
+    "260": {
+        "color_name": "Frostbite",
+        "hex_value": "#E936A7"
+    },
+    "261": {
+        "color_name": "Fuchsia",
+        "hex_value": "#FF00FF"
+    },
+    "262": {
+        "color_name": "Fuchsia (Crayola)",
+        "hex_value": "#C154C1"
+    },
+    "263": {
+        "color_name": "Fulvous",
+        "hex_value": "#E48400"
+    },
+    "264": {
+        "color_name": "Fuzzy Wuzzy",
+        "hex_value": "#87421F"
+    }
+}
