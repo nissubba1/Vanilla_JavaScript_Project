@@ -6,3 +6,13 @@ A simple random background color changer when user click on a button. This proje
 I used Python BeautifulSoup4 to scrap Wikipedia color names and hex values. After that, I wrote it in a JSON file 
 using key-value pair. Then, using JavaScript fetch method, read the JSON file and used it to change background color.
 
+## 2. Random Gift Assign
+It is end of October and start of a holiday season. During holiday, everyone wants to give someone a gift; however, 
+many do not know what to give. Which is why I wrote this program.
+
+### Instruction:
+1. Write everyone who you want to give gift
+2. Click on the 'Assign' button and program will randomly assign gifts from list of available gifts
+3. If you don't like those randomly assigned gifts, click on 'Shuffle' button, and it will shuffle the gifts again
+4. Click on the 'Reset' to reset the gifts
+
