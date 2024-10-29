@@ -19,3 +19,9 @@ many do not know what to give. Which is why I wrote this program.
 3. If you don't like those randomly assigned gifts, click on 'Shuffle' button, and it will shuffle the gifts again
 4. Click on the 'Reset' to reset the gifts
 
+## 3. Counter
+
+A simple program that can count and changes color based on if current number is positive or negative. 
+
+The 3 buttons makes it easy to use the program. User can increase, decrease, or reset the number at any time.
+
