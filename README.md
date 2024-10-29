@@ -25,3 +25,10 @@ A simple program that can count and changes color based on if current number is 
 
 The 3 buttons makes it easy to use the program. User can increase, decrease, or reset the number at any time.
 
+## 4. Review Carousel
+A testimonial section of the web page made to be user-friendly and unique. The buttons are all fully functional. 
+
+### Interesting: 
+If you click on the 'Surprise Me' button, the JavaScript will get a random index and give you that index review 
+information.
+

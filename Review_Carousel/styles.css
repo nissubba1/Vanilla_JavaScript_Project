@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+:root {
+    --font-family: 'Rubik', sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    font-size: 2rem;
+    background-color: #f2f2f2;
+    font-family: var(--font-family), sans-serif;
+}
+
+#card-header {
+    font-size: 3rem;
+    position: relative;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5rem;
+    padding: 2rem;
+}
+
+#card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    padding: 2rem 4rem;
+    width: 60rem;
+    gap: 1rem;
+    margin: 1rem;
+}
+
+.name-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.person-name {
+    font-size: 2.5rem;
+}
+
+.name-container .profession {
+    font-size: 1.2rem;
+    text-transform: uppercase;
+}
+
+.arrow-controllers-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    gap: 1rem;
+    color: limegreen;
+}
+
+.arrow-controller {
+    display: block;
+    border: 1px solid black;
+    font-size: 3rem;
+    padding: 0 2rem;
+    cursor: pointer;
+    font-weight: 700;
+}
+
+.arrow-controller:hover {
+    color: red;
+}
+
+.btn {
+    padding: 1rem 2rem;
+    cursor: pointer;
+    font-size: 1.6rem;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 700;
+    background-color: #fff;
+    border: 1px solid black;
+}
+
+.btn:hover {
+    color: red;
+}
+
+.testimonial {
+    font-size: 1.6rem;
+}
+
+.card-border {
+    padding: 10px;
+    position: relative;
+}
+
+.card-corner-border {
+    width: 8rem;
+    height: 8rem;
+    position: absolute;
+    z-index: -1;
+}
+
+.top-left-border {
+    border-top: 5px solid red;
+    border-left: 5px solid red;
+    top: 0;
+    left: 0;
+}
+
+.top-right-border {
+    top: 0;
+    right: 0;
+    border-top: 5px solid red;
+    border-right: 5px solid red;
+}
+
+.bottom-left-border {
+    border-bottom: 5px solid red;
+    border-left: 5px solid red;
+    bottom: 0;
+    left: 0;
+}
+
+.bottom-right-border {
+    border-bottom: 5px solid red;
+    border-right: 5px solid red;
+    bottom: 0;
+    right: 0;
+}
+
+.img-container {
+    position: relative;
+    padding: 1.5rem;
+}
+
+.underline {
+    width: 12rem;
+    height: 0.5rem;
+    background-color: limegreen;
+    position: absolute;
+    left: 12.3rem;
+    border: none;
+}
+
+.img-border {
+    width: 25%;
+    height: 25%;
+    position: absolute;
+    border-top: 5px solid limegreen;
+    border-right: 5px solid limegreen;
+    top: 0;
+    right: 0;
+}
+
+.profile-image {
+    display: block;
+}
