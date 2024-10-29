@@ -33,11 +33,15 @@ body {
 .btn {
     padding: 1.4rem 1.6rem;
     font-size: 1.6rem;
-    border-radius: 0;
     cursor: pointer;
     background-color: #fff;
     font-family: 'Rubik', sans-serif;
     border: none;
+    text-transform: uppercase;
+    box-shadow: 0 0 12px -2px rgba(255,255,255,0.5);
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    line-height: 1.25;
 }
 
 .btn:hover {
