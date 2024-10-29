@@ -1,4 +1,7 @@
 # JavaScript Projects
+
+# Demo: https://nissubba1.github.io/Vanilla_JavaScript_Project/
+
 ## 1. Color Flipper
 A simple random background color changer when user click on a button. This project uses Python to scrap all the color names and their hex values from Wikipedia's List of colors. There are total of 265 different colors. The aim was to give user unique and different background colors and create user-friendly UI.
 
