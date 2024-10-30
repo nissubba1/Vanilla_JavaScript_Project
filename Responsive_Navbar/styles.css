@@ -27,19 +27,52 @@ header {
     font-size: 3rem;
 }
 
-ul {
+/*nav {*/
+/*    position: relative;*/
+/*}*/
+
+.menu {
     display: flex;
     flex-direction: row;
     gap: 2rem;
     list-style: none;
+
+    /*    hamburger animation*/
+    /*    position: fixed;*/
+    /*    transition: transform 0.2s;*/
+    /*    top: 0;*/
+    /*    right: 0;*/
+    /*    left: 0;*/
+    /*    bottom: 0;*/
+    /*    z-index: 99;*/
+    /*    transform: translateY(-100%);*/
+    /*    justify-content: center;*/
+    /*    align-items: center;*/
+    /*    align-content: center;*/
 }
 
-a {
+.hamburger {
+    position: fixed;
+    z-index: 100;
+    top: 1rem;
+    right: 2.5rem;
+}
+
+.hamburger .closed-icon {
+    display: none;
+    cursor: pointer;
+}
+
+.showMenu {
+    transform: translateY(0);
+}
+
+.links {
     text-decoration: none;
     color: black
 }
 
-ul li a:hover {
+.menu li .nav-links:hover {
     color: red;
 }
 
@@ -47,6 +80,7 @@ ul li a:hover {
     display: flex;
     flex-direction: row;
     gap: 2rem;
+    margin-right: 2rem;
 }
 
 main {
@@ -54,7 +88,71 @@ main {
     background-color: #f2f2f2;
 }
 
-.hamburger {
-    position: absolute;
+.hamburger .open-icon {
     display: none;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 800px) {
+    html {
+        font-size: 40%;
+    }
+
+    .menu {
+        display: flex;
+        flex-direction: column;
+        gap: 2rem;
+        list-style: none;
+
+        /*    hamburger animation*/
+        position: fixed;
+        /*transition: transform 0.2s;*/
+        top: 0;
+        right: 0;
+        left: 0;
+        bottom: 0;
+        z-index: 99;
+        transform: translateY(-100%);
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+        background-color: #0f0e17;
+    }
+
+    .nav-links {
+        color: white;
+    }
+
+    .hamburger .closed-icon {
+        color: white;
+    }
+
+    .hamburger .open-icon {
+        display: block;
+        color: black;
+    }
+
+    .showMenu {
+        transform: translateY(0);
+    }
+}
+
+@media screen and (min-width: 801px) {
+    .menu {
+        display: flex;
+        transform: none;
+        position: static;
+    }
+
+    .hamburger .open-icon {
+        display: none;
+    }
+
+    .hamburger .closed-icon {
+        display: none;
+    }
+
+    .hamburger {
+        color: black;
+    }
 }
