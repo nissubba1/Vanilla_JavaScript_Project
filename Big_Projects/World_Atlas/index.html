@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="description" content="background color flipper">
+        <title>World Atlas</title>
+        <link rel="stylesheet" type="text/css" href="styles.css">
+    </head>
+    <body>
+        <main id="main-container">
+            <h1>World Countries</h1>
+            <section class="search-container">
+                <label for="search-input">Enter Country Name</label>
+                <input type="search" id="search-input">
+                <button type="button" class="btn search-btn">Search</button>
+            </section>
+            <section class="country-info-container">
+                <div class="left-side">
+                    <img src="" alt="" id="country-flag">
+                </div>
+                <div class="right-side">
+                    <p class="country-info bold">Common Name:
+                        <span class="info-holder" id="common-name"></span></p>
+                    <p class="country-info bold">Official Name:
+                        <span class="info-holder" id="official-name"></span></p>
+                    <p class="country-info bold">Capital: <span class="info-holder" id="capital"></span></p>
+                    <p class="country-info bold">Continent:
+                        <span class="info-holder" id="continent"></span></p>
+                    <p class="country-info bold">Currency:
+                        <span class="info-holder" id="currency"></span></p>
+                    <p class="country-info bold">Border Countries:
+                        <span class="info-holder" id="border-countries"></span></p>
+                    <p class="country-info bold">Population
+                        <span class="info-holder" id="population"></span></p>
+                    <p class="country-info bold">Language: <span class="info-holder" id="language"></span></p>
+                    <p class="country-info bold">Coat of Arms:
+                        <span class="info-holder">
+                            <img src="" alt="" id="coat-of-arms">
+                        </span>
+                    </p>
+                </div>
+            </section>
+        </main>
+
+        <script src="scripts.js" type="text/javascript"></script>
+        <script src="main.js" type="text/javascript"></script>
+    </body>
+</html>

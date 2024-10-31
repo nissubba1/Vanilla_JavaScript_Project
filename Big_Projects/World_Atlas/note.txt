@@ -1,0 +1,12 @@
+Country name
+official country name
+
+Borders
+Capital
+coat of arms
+continents
+currency
+flag
+language
+google map
+population
