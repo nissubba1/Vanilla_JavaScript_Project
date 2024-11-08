@@ -15,6 +15,9 @@ const countryFlag = document.getElementById('country-flag');
 const coatOfArms = document.getElementById('coat-of-arms');
 
 
+// FAQ Section
+const questionBlock = document.querySelectorAll('.questions');
+
 function fetchCountry(countryName) {
     const apiUrl = `https://restcountries.com/v3.1/name/${countryName}`
     fetch(apiUrl)
@@ -100,26 +103,9 @@ searchBtn.addEventListener('click', () => {
 
 })
 
-// const countryName = "united States of America"
-
-// Countries REST API
-
-// function getCurrency(countryCurrency) {
-//     object
-// }
-
 function countryData(apiData) {
     commonName.textContent = apiData['name']['common'];
     officialName.textContent = apiData['name']['official'];
-
-    // const borders = apiData['borders'];
-    // if (borders) {
-    //     borderCountries.textContent = `${objectValue(borders)}`
-    // } else {
-    //     borderCountries.textContent = 'None';
-    // }
-
-
     capitalName.textContent = apiData['capital'][0];
     console.log(apiData['capital'][0])
     continent.textContent = apiData['continents'][0];
@@ -127,21 +113,11 @@ function countryData(apiData) {
 
     Object.keys(currency).forEach(key => {
         currencies.textContent = currency[key].name;
-        // console.log(name)
     })
-    // console.log(`${objectValue(currency)}`)
-    // const flag = apiData['flags']["png"];
     countryFlag.src = apiData['flags']['png']
     countryFlag.alt = apiData['flags']['alt']
-    // const languages = apiData['languages'];
     language.textContent = `${objectValue(apiData['languages'])}`;
-    // Object.keys(languages).forEach(language => {
-    //     const languageName = languages[language];
-    //     console.log(languageName)
-    // })
-    // console.log(`${objectValue(apiData['languages'])}`)
 
-    // const population = apiData['population'];
     const rawPopulation = apiData['population'];
     population.textContent = new Intl.NumberFormat('en-US').format(rawPopulation);
 
@@ -152,31 +128,10 @@ function countryData(apiData) {
         coatOfArms.src = apiData['flags']['png']
         coatOfArms.alt = `Coat of Arms of ${apiData['name']['official']}`;
     }
-
-
-    // console.log(countryName)
-    // console.log(officialName)
-    // // console.log(countryBorders)
-    // console.log(capital)
-    // console.log(continents)
-    // // console.log(currency)
-    // // getCurrency(currency)
-    // console.log(flag)
-    // // console.log(languages)
-    // console.log(population)
-
 }
 
 function fetchBorderCountriesCode(apiData) {
     const borders = apiData['borders'];
-    // let borderCodes = '';
-    // if (borders) {
-    //     borderCodes = `${objectValue(borders)}`
-    // } else {
-    //     borderCodes = 'None';
-    //     console.log(`This is failed : ${borderCodes}`)
-    // }
-    // return borderCodes;
     return borders ? `${objectValue(borders)}` : 'None'
 }
 
@@ -188,16 +143,11 @@ function objectValue(object) {
     return valueArray;
 }
 
-
-//
-// let countryNameSearch = 'name';
-//
-// searchBtn.addEventListener('click', () => {
-//     countryNameSearch = countryToSearch.value;
-//     // console.log(`${countryNameSearch} this is  em`);
-//     return countryNameSearch;
-// })
-//
-// console.log(`${countryNameSearch} this is  em`);
-
-
+questionBlock.forEach((question) => {
+    question.addEventListener('click', () => {
+        console.log('this is test');
+        let parentContainer = question.closest('.faq');
+        let answerContainer = parentContainer.querySelector('.faq-answer');
+        answerContainer.classList.toggle('hide');
+    })
+})

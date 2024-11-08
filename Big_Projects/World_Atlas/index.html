@@ -7,43 +7,159 @@
         <meta name="description" content="background color flipper">
         <title>World Atlas</title>
         <link rel="stylesheet" type="text/css" href="styles.css">
+        <script src="https://kit.fontawesome.com/d0480e7843.js" crossorigin="anonymous"></script>
     </head>
     <body>
-        <main id="main-container">
-            <h1>World Countries</h1>
-            <section class="search-container">
-                <label for="search-input">Enter Country Name</label>
-                <input type="search" id="search-input">
-                <button type="button" class="btn search-btn">Search</button>
-            </section>
-            <section class="country-info-container">
-                <div class="left-side">
-                    <img src="" alt="" id="country-flag">
+        <header id="nav-header">
+            <div class="logo-container">
+                Atlas Informatics
+            </div>
+            <nav id="nav-container">
+                <div class="nav-lists-container">
+                    <ul class="nav-lists">
+                        <li class="link-list"><a href="" class="nav-link link">Home</a></li>
+                        <li class="link-list"><a href="" class="nav-link link">Testimonials</a></li>
+                        <li class="link-list"><a href="" class="nav-link link">FAQ</a></li>
+                        <li class="link-list"><a href="" class="nav-link link">Contact</a></li>
+                    </ul>
                 </div>
-                <div class="right-side">
-                    <p class="country-info bold">Common Name:
-                        <span class="info-holder" id="common-name"></span></p>
-                    <p class="country-info bold">Official Name:
-                        <span class="info-holder" id="official-name"></span></p>
-                    <p class="country-info bold">Capital: <span class="info-holder" id="capital"></span></p>
-                    <p class="country-info bold">Continent:
-                        <span class="info-holder" id="continent"></span></p>
-                    <p class="country-info bold">Currency:
-                        <span class="info-holder" id="currency"></span></p>
-                    <p class="country-info bold">Border Countries:
-                        <span class="info-holder" id="border-countries"></span></p>
-                    <p class="country-info bold">Population
-                        <span class="info-holder" id="population"></span></p>
-                    <p class="country-info bold">Language: <span class="info-holder" id="language"></span></p>
-                    <p class="country-info bold">Coat of Arms:
-                        <span class="info-holder">
+            </nav>
+            <div class="socials-container">
+                <i class="fa-brands fa-github"></i>
+                <i class="fa-brands fa-linkedin"></i>
+            </div>
+            <div class="hamburger-container">
+                <i class="fa-solid fa-bars menu-open"></i>
+                <i class="fa-solid fa-x menu-closed"></i>
+            </div>
+        </header>
+        <main id="main-container">
+<!--            <section id="search-container">-->
+<!--                <h1>World Countries</h1>-->
+<!--                <label for="search-input">Enter Country Name</label>-->
+<!--                <input type="search" id="search-input">-->
+<!--                <button type="button" class="btn search-btn">Search</button>-->
+<!--            </section>-->
+            <section id="country-info-container">
+                <div id="search-container">
+                    <h1 class="page-title">World Countries</h1>
+                    <label for="search-input">Enter Country Name</label>
+                    <input type="search" id="search-input">
+                    <button type="button" class="btn search-btn">Search</button>
+                </div>
+                <div id="country-infographics">
+                    <div class="left-side">
+                        <img src="" alt="" id="country-flag">
+                    </div>
+                    <div class="right-side">
+                        <p class="country-info bold">Common Name
+                            <span class="info-holder" id="common-name"></span></p>
+                        <p class="country-info bold">Official Name
+                            <span class="info-holder" id="official-name"></span></p>
+                        <p class="country-info bold">Capital <span class="info-holder" id="capital"></span></p>
+                        <p class="country-info bold">Continent
+                            <span class="info-holder" id="continent"></span></p>
+                        <p class="country-info bold">Currency
+                            <span class="info-holder" id="currency"></span></p>
+                        <p class="country-info bold">Border Countries
+                            <span class="info-holder" id="border-countries"></span></p>
+                        <p class="country-info bold">Population
+                            <span class="info-holder" id="population"></span></p>
+                        <p class="country-info bold">Language <span class="info-holder" id="language"></span></p>
+                        <div class="country-info coat-of-arm-holder">
+                            <p class="bold">Coat of Arms
+                            </p>
                             <img src="" alt="" id="coat-of-arms">
-                        </span>
-                    </p>
+                        </div>
+
+                    </div>
+                </div>
+
+            </section>
+            <section id="testimonials-container">
+                <div class="section-title-container">
+                    <h2 class="section-title">Testimonials</h2>
+                </div>
+                <div class="testimonial-section">
+                    <div class="prev-btn-container">
+                        <button class="btn prev-btn"> < </button>
+                    </div>
+                    <div class="review-container">
+                        <div class="reviewer-picture">
+                            <img src="images/person3.jpeg" alt="Person one" class="profile-picture">
+                        </div>
+                        <div class="review-holder">
+                            <p class="review"><q class="quote">This was a fantastic website for
+                                me
+                                and my
+                                student to
+                                review countries
+                                around the world.</q></p>
+                        </div>
+                        <div class="person-info">
+                            <p class="reviewer-name">Jessica Robert</p>
+                            <p class="reviewer-profession">History Teach</p>
+                        </div>
+                    </div>
+                    <div class="next-btn-container">
+                        <button class="btn next-btn"> > </button>
+                    </div>
+                </div>
+
+            </section>
+            <section id="faq-container">
+                <div class="section-title-container">
+                    <h2 class="section-title">FAQ</h2>
+                </div>
+                <div class="faq-holder">
+                    <div class="faq">
+                        <div class="questions">
+                            <p class="faq-question bold">What is the purpose of Atlas Informatics?</p>
+                            <span class="expand-faq">+</span>
+                        </div>
+
+                        <p class="faq-answer hide">Atlas Informatics is way to view each country from high level
+                            point of
+                            view.</p>
+                    </div>
+                    <div class="faq">
+                        <div class="questions">
+                            <p class="faq-question bold">Does Atlas Informatics have each country in the world?</p>
+                            <span class="expand-faq">+</span>
+
+                        </div>
+                        <p class="faq-answer hide">Yes, Atlas Informatics contains high level information about all
+                            countries
+                            on the globe. The information presented here is directly from RESTCountries API.</p>
+                    </div>
+                    <div class="faq">
+                        <div class="questions">
+                            <p class="faq-question bold">Does Atlas Informatics updated their information?</p>
+                            <span class="expand-faq">+</span>
+                        </div>
+
+                        <p class="faq-answer hide">Yes, since Atlas Informatics is using REST API, whenever it gets
+                            updated,
+                            the information presented here will also be automatically updated.</p>
+                    </div>
+                </div>
+
+            </section>
+            <section id="contact-container">
+                <div class="section-title-container">
+                    <h2 class="section-title">Contact</h2>
+                </div>
+                <div class="contact-container">
+                    <i class="fa-brands fa-github"></i>
+                    <i class="fa-brands fa-linkedin"></i>
                 </div>
             </section>
         </main>
-
+        <footer id="footer-container">
+            <div class="footer">
+                <p class="footer-info">Created, Maintained, and deployed by Nishan Subba.</p>
+            </div>
+        </footer>
         <script src="scripts.js" type="text/javascript"></script>
         <script src="main.js" type="text/javascript"></script>
     </body>
